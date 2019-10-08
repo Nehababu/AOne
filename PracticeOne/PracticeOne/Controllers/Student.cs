@@ -8,5 +8,6 @@ namespace PracticeOne.Controllers
     public class Student
     {
         public string Name { get; set; }
+        public string ankita { get; set; }
     }
 }
