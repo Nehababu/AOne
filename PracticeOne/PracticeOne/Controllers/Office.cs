@@ -8,5 +8,6 @@ namespace PracticeOne.Controllers
     public class Office
     {
         public int EmployeeNumber { get; set; }
+        public string empName { get; set; }
     }
 }
