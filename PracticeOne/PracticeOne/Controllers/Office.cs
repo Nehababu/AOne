@@ -9,5 +9,6 @@ namespace PracticeOne.Controllers
     {
         public int EmployeeNumber { get; set; }
         public string empName { get; set; }
+        public string game { get; set; }
     }
 }
